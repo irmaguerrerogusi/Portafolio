@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: black;
+}
+img{
+    text-align: center;
+    align-items: center;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: gray;
+}
+h3{
+    text-align: center;
+    color: gray;
+}
+
+div{
+    align-items: center;
+    align-content: center;
+}
+li{
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
